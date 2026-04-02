@@ -38,4 +38,4 @@ jobs:
       - name: Build backend
         run: |
           cd backend
-          ./mvnw clean install
+          ./mvnw clean installgit add .
